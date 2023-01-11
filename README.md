@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 ## About me
 
@@ -7,3 +7,7 @@ Im a passionnate Mobile & Web Developer always looking for new challenges and ne
 ## Clients
 
 I had the opportunity to work for big firm like : Presstalis, Hermes, Sephora, SNCF and many more. 
+
+## More :
+
+[My Gists](https://gist.github.com/ThePredators)
